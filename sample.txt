@@ -4,3 +4,4 @@ Nešto novo.
 Nešto treće.
 
 Ovo je sa developmenta.
+Develpment nakon merge.
