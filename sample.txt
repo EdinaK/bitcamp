@@ -4,4 +4,11 @@ Nešto novo.
 Nešto treće.
 
 Ovo je sa developmenta.
+<<<<<<< HEAD
 Develpment tzhh akon merge.
+=======
+Develpment nakon merge.
+
+
+sa drugog nije nego sa prvog računara...
+>>>>>>> cc56df745ab6091a4f3a32727fdb8ef33f28fdcf
