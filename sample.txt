@@ -5,3 +5,6 @@ Nešto treće.
 
 Ovo je sa developmenta.
 Develpment nakon merge.
+
+
+sa drugog nije nego sa prvog računara...
